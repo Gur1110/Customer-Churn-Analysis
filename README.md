@@ -45,13 +45,13 @@ Customer-Churn-Analysis/
 ## 📊 Dashboard Preview
 
 ### Overview Page
-![Summary (db-1)](Churn%20Analysis%20Project/Summary (db-1).png)
+![Dashboard 1](Churn%20Analysis%20Project/Summary%20(db-1).png)
 
 ### Churn Analysis
-![Churn Reason (db-2)](Churn%20Analysis%20Project/Churn Reason (db-2).png)
+![Dashboard 2](Churn%20Analysis%20Project/Churn%20Reason%20(db-2).png)
 
 ### Prediction Results
-![Churn Prediction (db-3)](Churn%20Analysis%20Project/Churn Prediction (db-3).png)
+![Dashboard 3](Churn%20Analysis%20Project/Churn%20Prediction%20(db-3).png)
 
 ---
 
